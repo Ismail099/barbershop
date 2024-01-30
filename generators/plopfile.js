@@ -1,16 +1,16 @@
 module.exports = function (plop) {
   plop.setGenerator('component', {
-    description: 'criando uma estrutura para um componente',
+    description: 'creating a structure for a component',
     prompts: [
       {
         type: 'input',
         name: 'type',
-        message: 'Qual o tipo do componente(atoms, molecules, organisms)?'
+        message: 'What is the type of component (atoms, molecules, organisms)?'
       },
       {
         type: 'input',
         name: 'name',
-        message: 'Qual o nome do componente?'
+        message: 'What is the name of the component?'
       }
     ],
     actions: [

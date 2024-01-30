@@ -1,6 +1,6 @@
 {
-  "name": "98Barbershop",
-  "short_name": "98Barbershop",
+  "name": "Barbershop",
+  "short_name": "Barbershop",
   "icons": [
     {
       "src": "assets/img/logotipo-36-36.png",
@@ -39,7 +39,7 @@
     }
   ],
   "background_color": "#080808",
-  "description": "98Barbershop, sua barbearia preferida agora em uma plataforma.",
+  "description": "Barbershop, Dein Lieblings Friseursalon jetzt auf einer Plattform.",
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#080808"
